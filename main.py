@@ -1,5 +1,4 @@
 import tkinter as tk
-#from tkinter import ttk
 import ttkbootstrap as ttk
 
 def convert():
@@ -11,7 +10,7 @@ def convert():
 
 #window
 win = ttk.Window(themename = 'darkly')
-win.title('Converter-dEfy')
+win.title('Converter-dEfy(m to km)')
 win.geometry('300x150')
 
 #title
